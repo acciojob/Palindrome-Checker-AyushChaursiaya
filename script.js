@@ -42,4 +42,4 @@ function isPalindrome(s) {
 
   return true;
 }
-module.exports = palindrome
+module.exports = isPalindrome
